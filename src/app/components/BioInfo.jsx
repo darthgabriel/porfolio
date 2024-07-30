@@ -6,7 +6,7 @@ export default function BioInfo () {
         <h1 className='display-5 fw-bolder text-light'>Hola, soy Jose Paredes</h1>
       </div>
 
-      <div className='px-5 w-50 fs-sm-5 fs-4 align-self-end bg-light bg-opacity-25 border border-light rounded overflow-auto'>
+      <div className='px-5 w-sm-50 w-50 my-2 align-self-end bg-light bg-opacity-25 border border-light rounded overflow-auto'>
         +10 años de experiencia en el desarrollo de software,
         <span className='text-warning fw-bold'>{' '}Ing. de Computación{' '}</span>
         de Venezuela, 🇻🇪.
