@@ -7,8 +7,11 @@ import SobreMi from './components/SobreMi'
 export default function Home () {
   return (
     <div className='container-fluid'>
-      <div className='text-end'>
-        <p className='badge text-bg-light'>Disponible para Realizar Proyectos</p>
+      <div className='text-end sticky-top'>
+        <p className='badge text-bg-light'>
+          <i className='bi bi-star-fill' /> {' '}
+          Disponible para Realizar Proyectos
+        </p>
       </div>
       <BioInfo />
       <Experiencias />

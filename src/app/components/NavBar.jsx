@@ -1,6 +1,6 @@
 export default function NavBar () {
   return (
-    <nav className='navbar navbar-expand-sm bg-body-tertiary bg-opacity-25 sticky-top rounded border border-white'>
+    <nav className='navbar navbar-expand-sm bg-body-tertiary bg-opacity-25 rounded border border-white'>
       <div className='container-fluid'>
         <a className='navbar-brand' href='#'>
           <i className='bi bi-code-slash' />
