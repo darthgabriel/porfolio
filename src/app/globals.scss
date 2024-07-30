@@ -1,0 +1,15 @@
+@import  "~bootstrap/scss/functions";
+
+// solo modifcas cosas de bootstrap
+$font-size-base:  1rem;
+
+@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap-icons/font/bootstrap-icons";
+
+
+body {
+  cursor: pointer;
+  user-select: none;
+  margin: 1vh;
+  background-image: repeating-linear-gradient(90deg, rgba(52, 187, 95,0.12) 0px, rgba(52, 187, 95,0.12) 1px,transparent 1px, transparent 13px),repeating-linear-gradient(45deg, rgba(52, 187, 95,0.12) 0px, rgba(52, 187, 95,0.12) 1px,transparent 1px, transparent 13px),linear-gradient(90deg, rgb(45, 107, 241),rgb(28, 58, 170));
+}
