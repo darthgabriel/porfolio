@@ -7,7 +7,7 @@ export default function SobreMi () {
       </h4>
       <div className='text-light mt-2 bg-dark border border-light p-2'>
         <p>
-          Soy un Ingeniero de Sistemas con mas de 20 años de experiencia en el desarrollo de software.
+          Soy un Ingeniero de Sistemas con mas de 10 años de experiencia en el desarrollo de software.
         </p>
         <p>
           He trabajado en diferentes areas de la informatica, desde soporte tecnico hasta desarrollo de aplicaciones web y moviles.
